@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "arraybuffer-to-buffer": "^0.0.4",
+    "bootbot": "^1.0.8",
+    "dotenv": "^6.1.0",
+    "hasha": "^3.0.0",
+    "node-fetch": "^2.2.1"
+  }
+}
